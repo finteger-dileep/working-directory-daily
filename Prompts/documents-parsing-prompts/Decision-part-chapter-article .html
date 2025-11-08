@@ -1,0 +1,137 @@
+Clean and reformat HTML file using the following exact rules. Do not delete or modify any existing HTML tags or
+punctuation. Maintain semantic, valid, and clean HTML structure throughout.
+
+1. HTML Structure
+Ensure the base structure is exactly as follows:
+never modify the content or punctuation
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+    <meta charset='UTF-8'>
+    <meta name='viewport' content='width=device-width,initial-scale=1'>
+    <link rel='stylesheet' href='https://gtlcdn-eufeh8ffbvbvacgf.z03.azurefd.net/guide/stylesheets/dev/decision.css'>
+    <title></title>
+</head>
+
+<body>
+    <div class='scopeDECISION'>
+        <header>
+        </header>
+        <main>
+           
+            <!-- All content goes here -->
+
+        </main>
+    </div>
+</body>
+
+</html>
+
+2. <header>
+    <h1></h1>
+    <h1></h1>
+    <h3></h3>
+</header>
+
+**for definition content**
+
+change to this table / tabular format for all the paragraphs p tags and do not miss bolding the first word as shown:
+<table>
+    <tr>
+        <td>
+            <p><b>State</b></p>
+        </td>
+        <td>
+            <p>:</p>
+        </td>
+        <td>
+            <p>The United Arab Emirates.</p>
+        </td>
+    </tr>
+    add b tag as shown in the code for all the first td words <td>
+        <p><b>State asd</b></p>
+    </td>
+    Do not modify the content and miss the punctuation.
+
+    <div class='definition-wrapper'>
+        <table class='definition'>
+            <tr>
+                <td>
+                    <p><b>Term</b></p>
+                </td>
+                <td>
+                    <p>:</p>
+                </td>
+                <td>
+                    <p>Definition text here.</p>
+                </td>
+            </tr>
+            .
+            .
+            // continue here
+        </table>
+    </div>
+
+    Document Formatting Instructions
+    1. SectionFormatting
+    Use this exact structure:
+    NumberConversion Rule forh3 tags ONLY: Convert all spelled-out number words
+    (e.g., "one", "two", "three", etc.) into numerals (e.g.,"1", "2", "3", etc.) ONLY withintheh3
+    tag text. Do NOT convert numbers in paragraph content.
+    2.Chapter Formatting
+    Use this exact structure:
+    NumberConversion Rule forh3 tags ONLY: Convert all spelled-out number words
+    (e.g., "one", "two", "three", etc.) into numerals (e.g.,"1", "2", "3", etc.) ONLY withintheh3
+    tag text. Do NOT convert numbers in paragraph content.
+    3. Article Formatting
+    Use this structure:
+
+    <div id='bookmarkSectionPart1'>
+        <h3>PART 1 - [Title Case PART Name]</h3>
+    </div>
+
+    <div id='bookmarkSectionChapter1'>
+        <h3>CHAPTER 1 - [CHAPTER TITLE IN UPPERCASE]</h3>
+    </div>
+
+    <article id="bookmarkSection1">
+        <h3>Article 1 - [Title Case Article Name]</h3>
+        <p></p>
+        <p></p>
+    </article>
+    ..
+    <article id="bookmarkSection2">
+        <h3></h3>
+        <p></p>
+    </article>
+
+
+    1. List Formatting
+    - Use three levels of indentation in ordered lists:
+
+
+    if nothing is present then follow this if already the order is given then follow that
+    • Level 1: numbers (1., 2., 3.)
+    • Level 2: letters (a., b., c.) → add type='a'
+    • Level 3: roman numerals (i., ii., iii.) → add type='i'
+
+    if - (dash) is present in the listing , then add class=”dashed ” in ul tag
+
+    - Wrap each list item content inside:
+    <li>
+        <p>...</p>
+    </li>
+
+    1. Article Name Title Case
+    - In all <h3> tags and TOC links, apply title case:
+        - Capitalize important words
+        - Keep short words (of, and, in, to, for, with, etc.) in lowercase
+
+        Important:
+
+        - Do not remove any tags or punctuation.
+        - Ensure all output is cleanly indented and semantically valid HTML.
+        - Wrap everything inside <div class='scopeDECISION'> within the
+
+            <body>.

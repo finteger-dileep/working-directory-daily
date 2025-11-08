@@ -1,0 +1,121 @@
+Clean and reformat HTML file using the following exact rules. Do not delete or modify any existing HTML tags or
+punctuation. Maintain semantic, valid, and clean HTML structure throughout.
+
+1. HTML Structure
+Ensure the base structure is exactly as follows:
+never modify the content or punctuation
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+    <meta charset='UTF-8'>
+    <meta name='viewport' content='width=device-width,initial-scale=1'>
+    <link rel='stylesheet' href='https://gtlcdn-eufeh8ffbvbvacgf.z03.azurefd.net/guide/stylesheets/dev/article.css'>
+    <title></title>
+</head>
+
+<body>
+    <div class='scope'>
+        <header>
+        </header>
+        <main>
+            <div class='index'>
+            </div>
+            <!-- All content goes here -->
+
+        </main>
+    </div>
+</body>
+
+</html>
+
+2. <header>
+    <h1></h1>
+    <h1></h1>
+    <h3></h3>
+</header>
+
+1. Table of Contents (<div class='index'>)
+    - Include:
+    <h3>
+        <p>Contents</p>
+    </h3>
+    - Add links to each chapter and article like:
+    <p><a href="#bookmarkSection">Article 1 - [Title Case Article Name]</a></p>
+
+    -----
+
+    **for definition content**
+
+    change to this table / tabular format for all the paragraphs p tags and do not miss bolding the first word as shown:
+    <table>
+        <tr>
+            <td>
+                <p><b>State</b></p>
+            </td>
+            <td>
+                <p>:</p>
+            </td>
+            <td>
+                <p>The United Arab Emirates.</p>
+            </td>
+        </tr>
+        add b tag as shown in the code for all the first td words <td>
+            <p><b>State asd</b></p>
+        </td>
+        Do not modify the content and miss the punctuation.
+
+        <div class='definition-wrapper'>
+            <table class='definition'>
+                <tr>
+                    <td>
+                        <p><b>Term</b></p>
+                    </td>
+                    <td>
+                        <p>:</p>
+                    </td>
+                    <td>
+                        <p>Definition text here.</p>
+                    </td>
+                </tr>
+            </table>
+        </div>
+
+        1. Article Formatting
+        - Use:
+        <article id='bookmarkSection1'>
+            <h3 class='center'>Article 1<br>[Title Case Article Name]</h3>
+            <p>...</p>
+        </article>
+        1. List Formatting
+        - Use three levels of indentation in ordered lists:
+
+        if nothing is present then follow this if already the order is given then follow that
+        • Level 1: numbers (1., 2., 3.)
+        • Level 2: letters (a., b., c.) → add type='a'
+        • Level 3: roman numerals (i., ii., iii.) → add type='i'
+
+        if - (dash) is present in the listing , then add class=”dashed ” in ul tag
+
+        - Wrap each list item content inside:
+        <li>
+            <p>...</p>
+        </li>
+
+        1. Article Name Title Case
+        // Convert all spelled-out number words (e.g., "one", "two", "three", etc.) into numerals (e.g., "1", "2", "3",
+        etc.) throughout the entire text. Preserve all original formatting, spacing, punctuation, and casing only in h3
+        tags.
+        - In all <h3> tags and TOC links, apply title case:
+            - Capitalize important words
+            - Keep short words (of, and, in, to, for, with, etc.) in lowercase
+
+            Important:
+
+            - Do not remove any tags or punctuation.
+            - Ensure all output is cleanly indented and semantically valid HTML.
+            - Wrap everything inside <div class='scope'> within the
+
+                <body>. simplify this prompt
+                    - Please correct all spelling mistakes in the document wherever necessary. only the correct the text
+                    spelling.

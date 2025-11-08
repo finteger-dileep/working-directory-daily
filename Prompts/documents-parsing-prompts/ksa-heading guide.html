@@ -1,0 +1,47 @@
+format this HTML code in the same way, never modify the content or punctuation
+1. Lists
+
+Ordered Lists (<ol>)
+
+- Level 1: <ol>
+- Level 2: <ol type='a'>
+- Level 3: <ol type='i'>
+- Each item must be: <li><p>Text</p></li>
+
+Unordered Lists (<ul>)
+1. Bullet list:
+<ul>
+<li><p>Bullet point text</p></li>
+</ul>
+
+1. Dashed list:
+<ul class='dashed'>
+<li><p>Dashed item text</p></li>
+</ul>
+---
+1. Footnote References (Inline)
+<sup><a href='#bookmark1' id='bookmarkback1'>[1]</a></sup>
+- Match footnote id with corresponding block in footer
+---
+1. Footnote Block (Footer)
+<footer>
+<section>
+<article>
+<h3>Footnotes</h3>
+
+<div id='bookmark1' class='footnote-space'>
+<p><span class='gtl-space'><em><sup><strong><a href='#bookmarkback1'>[1]</a></strong></sup></em></span> <span>Article 1, Definitions, Unified VAT Agreement</span></p>
+</div>
+</article>
+</section>
+</footer>
+---
+1. Inline Footnote Summary (Optional)
+<div id='bookmark3' class='footnote-space'>
+<p>
+<span class='gtl-space'><em><sup><strong><a href='#bookmarkback3'>[3]</a></strong></sup></em></span>
+<span>Footnote content here.</span>
+</p>
+</div>
+
+

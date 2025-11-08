@@ -1,0 +1,198 @@
+
+curl 'https://support.github.com/ticket/personal/0/3740726' \
+  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cache-control: max-age=0' \
+  -b '_octo=GH1.1.1578135328.1736252146; logged_in=yes; dotcom_user=dileepkumar35; GHCC=Required:1-Analytics:1-SocialMedia:1-Advertising:1; color_mode=%7B%22color_mode%22%3A%22auto%22%2C%22light_theme%22%3A%7B%22name%22%3A%22light%22%2C%22color_mode%22%3A%22light%22%7D%2C%22dark_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%7D; cpu_bucket=lg; preferred_color_mode=dark; tz=Asia%2FCalcutta; _show_support_cookie_banner=0; _support_signedin=1; return_to=Au94mOQpAlwhPPf64QYS%2BA52RQFJy8gXhtmMR5VT5WSqW97xJYDZXQd5Jx26SMNFJRIb1%2BcQlO7bl86V8RIvt6thobMpBuhNHLjRSeg%3D--I4%2BJ4F80E0wrHVHr--B4NQY3L%2BET5FwRhNZoE06w%3D%3D; _support_session=3ueBbEXVTbTNDI%2Fpn8pKgkO9AH833idybEPr7Er9b9rW9afEAwTOSuNrGu%2F8XX%2FC5RuouZ8FWCsc9mOhRDow6dSONsGX1AaoAQhw8U5V1JrY8TKc1mwmY99OJfd%2BXBhfjSUnJqPXeoYFBIT8S%2FjBaqWgpwZTlLtAscjOyzj1NhlTNnbxS6cI4PPImTromm4Wq8lCoa4wTrACBsZHvQ5tAn9VBidf0JQ7hcLYP%2BcKNsmUjAL6aPnzx7cPPYGnYoh3zN0mRbm7mZAqwRCW3zNHiYZzlUuz%2FRSQ8QVoS7VSXjBaLYU7j%2Bsnj%2F9nRf8T6odUtSpX3xlnC9Srydd%2Fe8doIrbOQhPAavlCT6SsPY07%2BkPlgaBo2Ilk2caLnwp0panHQpt0cxqcGHKP6YplAxBwLXtEMx5mj%2FDbQLvw9XEaufDoNkvfDA3e8CCzjXwuchxc103mdgOTnvgjkANrRqn36dUMWJ2Kcf%2Flff7s30smG%2FNPkratC9YUdRg%2BsewVY4eeI0NZPauVwhDz9kDqXQJIHAxExaVO7NWrMe7yH8K2DG1U9zqTOSPb7KUoxtqLFI%2B5IUYdOkMZfXjEjhhVZ20ywzC8JtPNaBdKmdSecBvYYcm1EbrU8tthKXmHZRIvhbITZ0qhtTEB0HxqoIxNID5G%2FzV%2BvWtgcXLluNb%2FNe3%2FvIgX0QmSoMDkA4VvG4web9znNPnO%2BJHwSzcpv2mHNKrbesYVmpZ%2F6mY5lvXu3bQJ9fd0hzfyJ5oQ6k0mVH%2FIU1HYt4FG%2BEUIrbnCuRjpZWbDYONIOVflufPcX%2Bw3CDOIIt1za09YWuOlC2%2FgS1a3T7BXMs5U8xalOrA2eyYu0ccQAuIS%2BAI%3D--R6I%2BN6roQE4Be%2FRH--P23wmevYSVBlBlJU%2FFrf%2FA%3D%3D' \
+  -H 'dnt: 1' \
+  -H 'priority: u=0, i' \
+  -H 'referer: https://support.github.com/tickets/personal/0' \
+  -H 'sec-ch-ua: "Google Chrome";v="141", "Not?A_Brand";v="8", "Chromium";v="141"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: document' \
+  -H 'sec-fetch-mode: navigate' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-user: ?1' \
+  -H 'upgrade-insecure-requests: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36'
+
+
+
+
+
+
+
+
+  curl ^"https://uaetaxlaws.com/api/v1/activity/track^" ^
+  -H ^"accept: application/json^" ^
+  -H ^"accept-language: en-US,en;q=0.9,en-IN;q=0.8^" ^
+  -H ^"content-type: application/json^" ^
+  -b ^"SESSION=YjlmZDFlZjEtYjk0Yi00MWIwLWI3OGYtZGVjYWMwMzM0OWU1; _ga=GA1.1.1763740894.1740746226; _ga_MWD8DMQS5H=GS1.1.1741068350.2.1.1741068354.0.0.0; cookie-consent=^{^\^"essential^\^":true,^\^"analytics^\^":false,^\^"timestamp^\^":^\^"2025-09-07T16:43:50.386Z^\^",^\^"version^\^":^\^"1.0^\^"^}; XSRF-TOKEN=6be92335-b97e-4c03-8106-12a54af5e5d3^" ^
+  -H ^"origin: https://uaetaxlaws.com^" ^
+  -H ^"priority: u=1, i^" ^
+  -H ^"referer: https://uaetaxlaws.com/decisions/uae-gcc-customs-agreement-cd-119-of-2024^" ^
+  -H ^"sec-ch-ua: ^\^"Microsoft Edge^\^";v=^\^"141^\^", ^\^"Not?A_Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"141^\^"^" ^
+  -H ^"sec-ch-ua-mobile: ?1^" ^
+  -H ^"sec-ch-ua-platform: ^\^"Android^\^"^" ^
+  -H ^"sec-fetch-dest: empty^" ^
+  -H ^"sec-fetch-mode: cors^" ^
+  -H ^"sec-fetch-site: same-origin^" ^
+  -H ^"user-agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36 Edg/141.0.0.0^" ^
+  -H ^"x-correlation-id: 1760162308134-gccTaxLaws-ui^" ^
+  -H ^"x-xsrf-token: 6be92335-b97e-4c03-8106-12a54af5e5d3^" ^
+  --data-raw ^"^[^{^\^"type^\^":^\^"session_end^\^",^\^"sessionDuration^\^":17121,^\^"totalPages^\^":1,^\^"timestamp^\^":^\^"2025-10-11T05:58:28.133Z^\^"^}^]^" &
+curl ^"https://uaetaxlaws.com/api/v1/activity/track^" ^
+  -H ^"accept: application/json^" ^
+  -H ^"accept-language: en-US,en;q=0.9,en-IN;q=0.8^" ^
+  -H ^"content-type: application/json^" ^
+  -b ^"SESSION=YjlmZDFlZjEtYjk0Yi00MWIwLWI3OGYtZGVjYWMwMzM0OWU1; _ga=GA1.1.1763740894.1740746226; _ga_MWD8DMQS5H=GS1.1.1741068350.2.1.1741068354.0.0.0; cookie-consent=^{^\^"essential^\^":true,^\^"analytics^\^":false,^\^"timestamp^\^":^\^"2025-09-07T16:43:50.386Z^\^",^\^"version^\^":^\^"1.0^\^"^}; XSRF-TOKEN=6be92335-b97e-4c03-8106-12a54af5e5d3^" ^
+  -H ^"origin: https://uaetaxlaws.com^" ^
+  -H ^"priority: u=1, i^" ^
+  -H ^"referer: https://uaetaxlaws.com/decisions/uae-gcc-customs-agreement-cd-119-of-2024^" ^
+  -H ^"sec-ch-ua: ^\^"Microsoft Edge^\^";v=^\^"141^\^", ^\^"Not?A_Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"141^\^"^" ^
+  -H ^"sec-ch-ua-mobile: ?1^" ^
+  -H ^"sec-ch-ua-platform: ^\^"Android^\^"^" ^
+  -H ^"sec-fetch-dest: empty^" ^
+  -H ^"sec-fetch-mode: cors^" ^
+  -H ^"sec-fetch-site: same-origin^" ^
+  -H ^"user-agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36 Edg/141.0.0.0^" ^
+  -H ^"x-correlation-id: 1760162308251-gccTaxLaws-ui^" ^
+  -H ^"x-xsrf-token: 6be92335-b97e-4c03-8106-12a54af5e5d3^" ^
+  --data-raw ^"^[^{^\^"type^\^":^\^"session_end^\^",^\^"sessionDuration^\^":17239,^\^"totalPages^\^":1,^\^"timestamp^\^":^\^"2025-10-11T05:58:28.250Z^\^"^}^]^" &
+curl ^"https://www.google-analytics.com/g/collect?v=2^&tid=G-XXXXXXXXXX^&gtm=45je5a80za200^&_p=1760162290986^&gcs=G100^&gcd=13p3p3l3l5l1^&npa=0^&dma=0^&cid=2005348914.1760162292^&ul=en-us^&sr=845x621^&uaa=x86^&uab=64^&uafvl=Microsoft^%^2520Edge^%^3B141.0.3537.57^%^7CNot^%^253FA_Brand^%^3B8.0.0.0^%^7CChromium^%^3B141.0.7390.55^&uamb=0^&uam=^&uap=Windows^&uapv=19.0.0^&uaw=0^&are=1^&frm=0^&pscdl=denied^&_s=3^&tag_exp=101509157~103116026~103200004~103233427~104527906~104528501~104684208~104684211~104948813~105322304~115480709~115735625~115834636~115834638~115868792~115868794^&sid=1760162291^&sct=1^&seg=1^&dl=https^%^3A^%^2F^%^2Fuaetaxlaws.com^%^2Fdecisions^%^2Fuae-gcc-customs-agreement-cd-119-of-2024^&dr=https^%^3A^%^2F^%^2Fuaetaxlaws.com^%^2Fsearch-across-law^%^3Fcountry^%^3DUAE^%^26law^%^3Dgcc-customs-agreement^%^26query^%^3D^&dt=Regarding^%^20Approving^%^20the^%^20Integrated^%^20Customs^%^20Tariff^%^20Nomenclature^%^20According^%^20to^%^20the^%^20Harmonized^%^20Commodity^%^20^%^7C^%^20CD^%^20-^%^20Cabinet^%^20Decision^%^20119^%^20^%^7C^%^20GCC^%^20Tax^%^20Laws^&en=user_engagement^&_et=11769^&tfd=17405^" ^
+  -X ^"POST^" ^
+  -H ^"accept: */*^" ^
+  -H ^"accept-language: en-US,en;q=0.9,en-IN;q=0.8^" ^
+  -H ^"content-length: 0^" ^
+  -H ^"origin: https://uaetaxlaws.com^" ^
+  -H ^"priority: u=1, i^" ^
+  -H ^"referer: https://uaetaxlaws.com/^" ^
+  -H ^"sec-ch-ua: ^\^"Microsoft Edge^\^";v=^\^"141^\^", ^\^"Not?A_Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"141^\^"^" ^
+  -H ^"sec-ch-ua-mobile: ?1^" ^
+  -H ^"sec-ch-ua-platform: ^\^"Android^\^"^" ^
+  -H ^"sec-fetch-dest: empty^" ^
+  -H ^"sec-fetch-mode: no-cors^" ^
+  -H ^"sec-fetch-site: cross-site^" ^
+  -H ^"sec-fetch-storage-access: active^" ^
+  -H ^"user-agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36 Edg/141.0.0.0^" &
+curl ^"https://ipapi.co/country_code/^" ^
+  -H ^"accept: */*^" ^
+  -H ^"accept-language: en-US,en;q=0.9,en-IN;q=0.8^" ^
+  -H ^"origin: https://uaetaxlaws.com^" ^
+  -H ^"priority: u=1, i^" ^
+  -H ^"referer: https://uaetaxlaws.com/^" ^
+  -H ^"sec-ch-ua: ^\^"Microsoft Edge^\^";v=^\^"141^\^", ^\^"Not?A_Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"141^\^"^" ^
+  -H ^"sec-ch-ua-mobile: ?1^" ^
+  -H ^"sec-ch-ua-platform: ^\^"Android^\^"^" ^
+  -H ^"sec-fetch-dest: empty^" ^
+  -H ^"sec-fetch-mode: cors^" ^
+  -H ^"sec-fetch-site: cross-site^" ^
+  -H ^"user-agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36 Edg/141.0.0.0^" &
+curl ^"https://uaetaxlaws.com/api/v1/auth/oauth2/callback/success^" ^
+  -H ^"accept: application/json^" ^
+  -H ^"accept-language: en-US,en;q=0.9,en-IN;q=0.8^" ^
+  -b ^"SESSION=YjlmZDFlZjEtYjk0Yi00MWIwLWI3OGYtZGVjYWMwMzM0OWU1; _ga=GA1.1.1763740894.1740746226; _ga_MWD8DMQS5H=GS1.1.1741068350.2.1.1741068354.0.0.0; cookie-consent=^{^\^"essential^\^":true,^\^"analytics^\^":false,^\^"timestamp^\^":^\^"2025-09-07T16:43:50.386Z^\^",^\^"version^\^":^\^"1.0^\^"^}; XSRF-TOKEN=6be92335-b97e-4c03-8106-12a54af5e5d3^" ^
+  -H ^"priority: u=1, i^" ^
+  -H ^"referer: https://uaetaxlaws.com/decisions/uae-gcc-customs-agreement-cd-119-of-2024^" ^
+  -H ^"sec-ch-ua: ^\^"Microsoft Edge^\^";v=^\^"141^\^", ^\^"Not?A_Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"141^\^"^" ^
+  -H ^"sec-ch-ua-mobile: ?1^" ^
+  -H ^"sec-ch-ua-platform: ^\^"Android^\^"^" ^
+  -H ^"sec-fetch-dest: empty^" ^
+  -H ^"sec-fetch-mode: cors^" ^
+  -H ^"sec-fetch-site: same-origin^" ^
+  -H ^"user-agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36 Edg/141.0.0.0^" ^
+  -H ^"x-correlation-id: 1760162308636-gccTaxLaws-ui^" ^
+  -H ^"x-xsrf-token: 6be92335-b97e-4c03-8106-12a54af5e5d3^" &
+curl ^"https://uaetaxlaws.com/api/v1/decisions/slug/uae-gcc-customs-agreement-cd-119-of-2024^" ^
+  -H ^"accept: application/json^" ^
+  -H ^"accept-language: en-US,en;q=0.9,en-IN;q=0.8^" ^
+  -b ^"SESSION=YjlmZDFlZjEtYjk0Yi00MWIwLWI3OGYtZGVjYWMwMzM0OWU1; _ga=GA1.1.1763740894.1740746226; _ga_MWD8DMQS5H=GS1.1.1741068350.2.1.1741068354.0.0.0; cookie-consent=^{^\^"essential^\^":true,^\^"analytics^\^":false,^\^"timestamp^\^":^\^"2025-09-07T16:43:50.386Z^\^",^\^"version^\^":^\^"1.0^\^"^}; XSRF-TOKEN=6be92335-b97e-4c03-8106-12a54af5e5d3^" ^
+  -H ^"priority: u=1, i^" ^
+  -H ^"referer: https://uaetaxlaws.com/decisions/uae-gcc-customs-agreement-cd-119-of-2024^" ^
+  -H ^"sec-ch-ua: ^\^"Microsoft Edge^\^";v=^\^"141^\^", ^\^"Not?A_Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"141^\^"^" ^
+  -H ^"sec-ch-ua-mobile: ?1^" ^
+  -H ^"sec-ch-ua-platform: ^\^"Android^\^"^" ^
+  -H ^"sec-fetch-dest: empty^" ^
+  -H ^"sec-fetch-mode: cors^" ^
+  -H ^"sec-fetch-site: same-origin^" ^
+  -H ^"user-agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36 Edg/141.0.0.0^" ^
+  -H ^"x-correlation-id: 1760162308808-gccTaxLaws-ui^" ^
+  -H ^"x-xsrf-token: 6be92335-b97e-4c03-8106-12a54af5e5d3^" &
+curl ^"https://uaetaxlaws.com/api/v1/countries/with-laws^" ^
+  -H ^"accept: application/json^" ^
+  -H ^"accept-language: en-US,en;q=0.9,en-IN;q=0.8^" ^
+  -b ^"SESSION=YjlmZDFlZjEtYjk0Yi00MWIwLWI3OGYtZGVjYWMwMzM0OWU1; _ga=GA1.1.1763740894.1740746226; _ga_MWD8DMQS5H=GS1.1.1741068350.2.1.1741068354.0.0.0; cookie-consent=^{^\^"essential^\^":true,^\^"analytics^\^":false,^\^"timestamp^\^":^\^"2025-09-07T16:43:50.386Z^\^",^\^"version^\^":^\^"1.0^\^"^}; XSRF-TOKEN=6be92335-b97e-4c03-8106-12a54af5e5d3^" ^
+  -H ^"priority: u=1, i^" ^
+  -H ^"referer: https://uaetaxlaws.com/decisions/uae-gcc-customs-agreement-cd-119-of-2024^" ^
+  -H ^"sec-ch-ua: ^\^"Microsoft Edge^\^";v=^\^"141^\^", ^\^"Not?A_Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"141^\^"^" ^
+  -H ^"sec-ch-ua-mobile: ?1^" ^
+  -H ^"sec-ch-ua-platform: ^\^"Android^\^"^" ^
+  -H ^"sec-fetch-dest: empty^" ^
+  -H ^"sec-fetch-mode: cors^" ^
+  -H ^"sec-fetch-site: same-origin^" ^
+  -H ^"user-agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36 Edg/141.0.0.0^" ^
+  -H ^"x-correlation-id: 1760162308808-gccTaxLaws-ui^" ^
+  -H ^"x-xsrf-token: 6be92335-b97e-4c03-8106-12a54af5e5d3^" &
+curl ^"https://uaetaxlaws.com/api/v1/bookmarks/article/uae-gcc-customs-agreement-cd-119-of-2024^" ^
+  -H ^"accept: application/json^" ^
+  -H ^"accept-language: en-US,en;q=0.9,en-IN;q=0.8^" ^
+  -b ^"SESSION=YjlmZDFlZjEtYjk0Yi00MWIwLWI3OGYtZGVjYWMwMzM0OWU1; _ga=GA1.1.1763740894.1740746226; _ga_MWD8DMQS5H=GS1.1.1741068350.2.1.1741068354.0.0.0; cookie-consent=^{^\^"essential^\^":true,^\^"analytics^\^":false,^\^"timestamp^\^":^\^"2025-09-07T16:43:50.386Z^\^",^\^"version^\^":^\^"1.0^\^"^}; XSRF-TOKEN=6be92335-b97e-4c03-8106-12a54af5e5d3^" ^
+  -H ^"priority: u=1, i^" ^
+  -H ^"referer: https://uaetaxlaws.com/decisions/uae-gcc-customs-agreement-cd-119-of-2024^" ^
+  -H ^"sec-ch-ua: ^\^"Microsoft Edge^\^";v=^\^"141^\^", ^\^"Not?A_Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"141^\^"^" ^
+  -H ^"sec-ch-ua-mobile: ?1^" ^
+  -H ^"sec-ch-ua-platform: ^\^"Android^\^"^" ^
+  -H ^"sec-fetch-dest: empty^" ^
+  -H ^"sec-fetch-mode: cors^" ^
+  -H ^"sec-fetch-site: same-origin^" ^
+  -H ^"user-agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36 Edg/141.0.0.0^" ^
+  -H ^"x-correlation-id: 1760162308951-gccTaxLaws-ui^" ^
+  -H ^"x-xsrf-token: 6be92335-b97e-4c03-8106-12a54af5e5d3^" &
+curl ^"https://uaetaxlaws.com/api/v1/annotations/document/uae-gcc-customs-agreement-cd-119-of-2024^" ^
+  -H ^"accept: application/json^" ^
+  -H ^"accept-language: en-US,en;q=0.9,en-IN;q=0.8^" ^
+  -b ^"SESSION=YjlmZDFlZjEtYjk0Yi00MWIwLWI3OGYtZGVjYWMwMzM0OWU1; _ga=GA1.1.1763740894.1740746226; _ga_MWD8DMQS5H=GS1.1.1741068350.2.1.1741068354.0.0.0; cookie-consent=^{^\^"essential^\^":true,^\^"analytics^\^":false,^\^"timestamp^\^":^\^"2025-09-07T16:43:50.386Z^\^",^\^"version^\^":^\^"1.0^\^"^}; XSRF-TOKEN=6be92335-b97e-4c03-8106-12a54af5e5d3^" ^
+  -H ^"priority: u=1, i^" ^
+  -H ^"referer: https://uaetaxlaws.com/decisions/uae-gcc-customs-agreement-cd-119-of-2024^" ^
+  -H ^"sec-ch-ua: ^\^"Microsoft Edge^\^";v=^\^"141^\^", ^\^"Not?A_Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"141^\^"^" ^
+  -H ^"sec-ch-ua-mobile: ?1^" ^
+  -H ^"sec-ch-ua-platform: ^\^"Android^\^"^" ^
+  -H ^"sec-fetch-dest: empty^" ^
+  -H ^"sec-fetch-mode: cors^" ^
+  -H ^"sec-fetch-site: same-origin^" ^
+  -H ^"user-agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36 Edg/141.0.0.0^" ^
+  -H ^"x-correlation-id: 1760162308977-gccTaxLaws-ui^" ^
+  -H ^"x-xsrf-token: 6be92335-b97e-4c03-8106-12a54af5e5d3^" &
+curl ^"https://www.google-analytics.com/g/collect?v=2^&tid=G-XXXXXXXXXX^&gtm=45je5a80za200^&_p=1760162308290^&gcs=G100^&gcd=13p3p3l3l5l1^&npa=0^&dma=0^&cid=1317179997.1760162309^&ul=en-us^&sr=845x621^&uaa=^&uab=64^&uafvl=Microsoft^%^2520Edge^%^3B141.0.3537.57^%^7CNot^%^253FA_Brand^%^3B8.0.0.0^%^7CChromium^%^3B141.0.7390.55^&uamb=1^&uam=Nexus^%^205^&uap=Android^&uapv=6.0^&uaw=0^&are=1^&frm=0^&pscdl=denied^&_s=1^&tag_exp=101509157~103116026~103200004~103233427~104527907~104528501~104684208~104684211~104948813~105322303~115480709~115616985~115735625~115834636~115834638~115868792~115868794^&sid=1760162308^&sct=1^&seg=0^&dl=https^%^3A^%^2F^%^2Fuaetaxlaws.com^%^2Fdecisions^%^2Fuae-gcc-customs-agreement-cd-119-of-2024^&dr=https^%^3A^%^2F^%^2Fuaetaxlaws.com^%^2Fsearch-across-law^%^3Fcountry^%^3DUAE^%^26law^%^3Dgcc-customs-agreement^%^26query^%^3D^&dt=Regarding^%^20Approving^%^20the^%^20Integrated^%^20Customs^%^20Tariff^%^20Nomenclature^%^20According^%^20to^%^20the^%^20Harmonized^%^20Commodity^%^20^%^7C^%^20CD^%^20-^%^20Cabinet^%^20Decision^%^20119^%^20^%^7C^%^20GCC^%^20Tax^%^20Laws^&en=page_view^&_fv=1^&_nsi=1^&_ss=1^&_ee=1^&tfd=1095^" ^
+  -X ^"POST^" ^
+  -H ^"accept: */*^" ^
+  -H ^"accept-language: en-US,en;q=0.9,en-IN;q=0.8^" ^
+  -H ^"content-length: 0^" ^
+  -H ^"origin: https://uaetaxlaws.com^" ^
+  -H ^"priority: u=1, i^" ^
+  -H ^"referer: https://uaetaxlaws.com/^" ^
+  -H ^"sec-ch-ua: ^\^"Microsoft Edge^\^";v=^\^"141^\^", ^\^"Not?A_Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"141^\^"^" ^
+  -H ^"sec-ch-ua-mobile: ?1^" ^
+  -H ^"sec-ch-ua-platform: ^\^"Android^\^"^" ^
+  -H ^"sec-fetch-dest: empty^" ^
+  -H ^"sec-fetch-mode: no-cors^" ^
+  -H ^"sec-fetch-site: cross-site^" ^
+  -H ^"sec-fetch-storage-access: active^" ^
+  -H ^"user-agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36 Edg/141.0.0.0^" &
+curl ^"https://www.google-analytics.com/g/collect?v=2^&tid=G-XXXXXXXXXX^&gtm=45je5a80za200^&_p=1760162308290^&gcs=G100^&gcd=13p3p3l3l5l1^&npa=0^&dma=0^&cid=1317179997.1760162309^&ul=en-us^&sr=845x621^&uaa=^&uab=64^&uafvl=Microsoft^%^2520Edge^%^3B141.0.3537.57^%^7CNot^%^253FA_Brand^%^3B8.0.0.0^%^7CChromium^%^3B141.0.7390.55^&uamb=1^&uam=Nexus^%^205^&uap=Android^&uapv=6.0^&uaw=0^&are=1^&frm=0^&pscdl=denied^&_s=2^&tag_exp=101509157~103116026~103200004~103233427~104527907~104528501~104684208~104684211~104948813~105322303~115480709~115616985~115735625~115834636~115834638~115868792~115868794^&dp=^%^2Fdecisions^%^2Fuae-gcc-customs-agreement-cd-119-of-2024^&dt=GCC^%^20Tax^%^20Laws^%^20^%^7C^%^20Your^%^20Premier^%^20GCC^%^20Tax^%^20Research^%^20Platform^&sid=1760162308^&sct=1^&seg=1^&dl=https^%^3A^%^2F^%^2Fuaetaxlaws.com^%^2Fdecisions^%^2Fuae-gcc-customs-agreement-cd-119-of-2024^&dr=https^%^3A^%^2F^%^2Fuaetaxlaws.com^%^2Fsearch-across-law^%^3Fcountry^%^3DUAE^%^26law^%^3Dgcc-customs-agreement^%^26query^%^3D^&en=page_view^&_ee=1^&_et=4^&tfd=6115^" ^
+  -X ^"POST^" ^
+  -H ^"accept: */*^" ^
+  -H ^"accept-language: en-US,en;q=0.9,en-IN;q=0.8^" ^
+  -H ^"content-length: 0^" ^
+  -H ^"origin: https://uaetaxlaws.com^" ^
+  -H ^"priority: u=1, i^" ^
+  -H ^"referer: https://uaetaxlaws.com/^" ^
+  -H ^"sec-ch-ua: ^\^"Microsoft Edge^\^";v=^\^"141^\^", ^\^"Not?A_Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"141^\^"^" ^
+  -H ^"sec-ch-ua-mobile: ?1^" ^
+  -H ^"sec-ch-ua-platform: ^\^"Android^\^"^" ^
+  -H ^"sec-fetch-dest: empty^" ^
+  -H ^"sec-fetch-mode: no-cors^" ^
+  -H ^"sec-fetch-site: cross-site^" ^
+  -H ^"sec-fetch-storage-access: active^" ^
+  -H ^"user-agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36 Edg/141.0.0.0^"

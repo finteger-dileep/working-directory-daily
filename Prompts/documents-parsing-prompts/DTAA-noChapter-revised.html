@@ -1,0 +1,100 @@
+Your prompt is quite clear, but to simplify and improve readability, here's a revised version:
+
+---
+
+DTAA HTML Reformatting Guidelines
+
+1. HTML Structure:
+
+   * Keep the structure as follows:
+
+     ```html
+     <!DOCTYPE html>
+     <html lang='en'>
+     <head>
+     <meta charset='UTF-8'>
+     <meta name='viewport' content='width=device-width,initial-scale=1'>
+     <link rel='stylesheet' href='[https://gtlcdn-eufeh8ffbvbvacgf.z03.azurefd.net](https://gtlcdn-eufeh8ffbvbvacgf.z03.azurefd.net/guide/stylesheets/dev/guide.css)[/guide/stylesheets/dev/dtaa.css](https://gtlcdnstorage.blob.core.windows.net/guide/stylesheets/dtaa.css)'>
+     <title> - DTAA</title>
+     </head>
+     <body>
+     <div class='scope'>
+     <header>
+     </header>
+     <main>
+     <div class='index'>
+     </div>
+     <!-- All content goes here -->
+     </main>
+     </div>
+     </body>
+     </html>
+     ```
+
+2. Header Section:
+
+   - Inside the <header> tag:
+    - Format the <h1> treaty title using these rules:
+    • Always capitalize: Agreement, Government
+    • Country names in FULL UPPERCASE and wrapped with <u>
+    • Lowercase for articles/prepositions/conjunctions: between, the, of, and, for, with, respect, to, on
+    • All other significant words in Title Case
+    • Never remove or change any HTML tags or punctuation
+    - Include any preamble or introductory paragraph text *before* the article definitions inside this header.
+
+3. Table of Contents:
+
+   * Add `<h3><p>Contents</p></h3>`
+   * Add links to each chapter and article in this format:
+
+     ```html
+     <p><a href=&quot;#bookmarkSection1&quot;>Article 1 - [Title Case Article Name]</a></p>
+     <p><a href=&quot;#bookmarkSectionChapter1&quot;>CHAPTER I - [TITLE]</a></p>
+     ```
+
+4. Article Formatting:
+
+   * Use:
+
+     ```html
+     <article id='bookmarkSection1'>
+     <h3>Article 1<br>[Title Case Article Name]</h3>
+     <p>...</p>
+     </article>
+     ```
+
+5. List Formatting:
+
+   * Use 3 levels of indentation:
+
+     * Level 1: Numbers (`1.`, `2.`, `3.`)
+     * Level 2: Letters (`a.`, `b.`, `c.`) → `type='a'`
+     * Level 3: Roman numerals (`i.`, `ii.`, `iii.`) → `type='i'`
+   * If a dash (`-`) is used, wrap in `<ul class=&quot;dashed&quot;>`.
+
+6. Cross-References for Articles:
+
+   * For phrases like &quot;Articles 7, 14, and 15&quot;:
+
+     * Convert to: `<a href='#bookmarkSection7'>Articles 7</a>, <a href='#bookmarkSection14'>14</a> and <a href='#bookmarkSection15'>15</a>`
+     * For single articles (e.g., &quot;Article 8&quot;): `<a href='#bookmarkSection8'>Article 8</a>`
+
+7. Title Case in Article Names:
+
+   * Use Title Case for article names in `<h3>` tags and TOC links:
+
+     * Capitalize important words and lowercase short words (e.g., of, and, for).
+
+8. Protocol Section:
+
+   * If present, add as a new article with the next `bookmarkSection` number.
+
+### Important:
+
+* Do not remove or modify tags or punctuation.
+* Ensure valid, clean, and semantically structured HTML.
+* All content should be wrapped within `<div class='scope'>` inside the `<body>` tag.
+
+---
+
+This revised version follows the same guidelines but simplifies the language for clarity while keeping the original intent intact.
