@@ -1,0 +1,18 @@
+
+
+
+from this html list the chapters name and the particular articles under those chapter, write all those in this txt file: #file:hierarchy.txt 
+
+
+
+
+need  simple but massive change:
+1. change all the chapter, headings from h3 to h2 tag
+2. change all the articles ,headings from h3 to h1 tag in each article container
+
+---chapter h2 heading replicate for other Articles---
+so based on the hierachy you have the information that under the chapter, these particular article come, i need to make on change that inside every article container, there are h1 tag and h2 tag 
+
+wherever the h2 tag (chapter heading) is note there pls add h2 tag for that article the h2 tag should contain h2 tag
+
+

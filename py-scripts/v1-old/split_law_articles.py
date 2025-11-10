@@ -2,7 +2,7 @@ import os
 from bs4 import BeautifulSoup
 
 # Input and output paths
-input_html = 'final-ksa-vat.min.html'
+input_html = 'ksa-vat.html'
 output_dir = 'html'
 
 # Ensure output directory exists
@@ -30,14 +30,14 @@ for article in articles:
 <head>
     <meta charset='UTF-8'>
     <meta name='viewport' content='width=device-width,initial-scale=1'>
-    <link rel='stylesheet' href='https://gtlcdn-eufeh8ffbvbvacgf.z03.azurefd.net/guide/stylesheets/dev/decision.css'>
+    <link rel='stylesheet' href='https://gtlcdn-eufeh8ffbvbvacgf.z03.azurefd.net/guide/stylesheets/dev/article.css'>
     <title>{h1_text}</title>
 </head>
 <body>
-    <div class='scopeDECISION'>
-       
+    <div class='scope'>
+        <main>
 {str(article)}
-       
+        </main>
     </div>
 </body>
 </html>'''

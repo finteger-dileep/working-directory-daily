@@ -39,61 +39,8 @@ Chapter 7 - Tax Calculation
   - Article 18
   - Article 19
   - Article 20
-  - Article 21
+  - Article 21...
 
-Chapter 8 - Tax Deduction
-  - Article 22
-
-Chapter 9 - Tax Invoices
-  - Article 23
-
-Chapter 10 - Tax Return
-  - Article 24
-  - Article 25
-  - Article 26
-
-Chapter 11 - Tax Payment
-  - Article 27
-  - Article 28
-  - Article 29
-  - Article 30
-
-Chapter 12 - Tax Refund
-  - Article 31
-  - Article 32
-  - Article 33
-  - Article 34
-
-Chapter 13 - Confidentiality and Exchanging Information
-  - Article 35
-
-Chapter 14 - Retention of Documents and Joint Liability
-  - Article 36
-  - Article 37
-
-Chapter 15 - Inspection and Control
-  - Article 38
-
-Chapter 16 - Tax Evasion and Penalties
-  - Article 39
-  - Article 40
-  - Article 41
-  - Article 42
-  - Article 43
-  - Article 44
-  - Article 45
-  - Article 46
-  - Article 47
-
-Chapter 17 - Penalties and Violations Review
-  - Article 48
-  - Article 49
-
-Chapter 18 - Final Provisions
-  - Article 50
-  - Article 51
-  - Article 52
-  - Article 53
 
 Would you like me to try writing this to hierarchy.txt again, or do you want it in a different format?
 
@@ -107,10 +54,14 @@ The chapters and their articles have been written to hierarchy.txt as requested.
 
 Made changes.
 
-dileepkumar35: so based on the hierachy you have the information that under the chapter, these particular article come, i need to make on change that
-inside every article container, there are h1 tag and h2 tag 
+
+
+dileepkumar35: so based on the hierachy you have the information that under the chapter, these particular article come, i need to make on change that inside every article container, there are h1 tag and h2 tag 
 
 wherever the h2 tag (chapter heading) is note there pls add h2 tag for that article
+
+
+
 
 GitHub Copilot: Read [](file:///c%3A/Users/Dileep%20Kumar%20MR/Downloads/ksa-vat-splitted/ksa-vat.html#1-1), lines 1 to 100
 
