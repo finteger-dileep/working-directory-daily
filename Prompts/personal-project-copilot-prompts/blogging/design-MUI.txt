@@ -1,0 +1,26 @@
+Theme Tokens
+
+Palette.primary: #1E5FFF — main branding blue, contrastText #FFFFFF.
+Palette.secondary: #FF7043 — accent / CTA, contrastText #FFFFFF.
+Palette.success: #28A745, error: #DC3545, warning: #FFC107, info: #17A2B8.
+Background: default: #F7F9FC, paper: #FFFFFF.
+Text: primary: #212121, secondary: #6B7280.
+Divider: rgba(33, 33, 33, 0.08).
+Shape: borderRadius: 10 (global card/button radius).
+Spacing: base 8 (use multiples: 1=8px, 2=16px, 3=24px).
+Shadows: subtle elevations: 0: none, 1: 0 1px 4px rgba(16,24,40,0.06), 2: 0 4px 12px rgba(16,24,40,0.08).
+Typography
+
+Font family: "Inter", "Roboto", "Helvetica", "Arial", sans-serif.
+H1..H6: scale with heavier weight for H5/H6 used in cards and widgets.
+h5: 20px / 600 (metrics), h6: 16px / 600 (card titles)
+Body1: 14px / 400, Body2: 13px / 400.
+Button: 14px / 600, textTransform none.
+Breakpoints
+
+xs: 0, sm: 600, md: 900, lg: 1200, xl: 1536.
+Use mobile-first spacing and stack cards below md.
+Global Accessibility
+
+Focus ring: 2px solid rgba(30,95,255,0.18) with 4px outline gap.
+High contrast text for buttons: ensure contrast ratio >= 4.5:1.

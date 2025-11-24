@@ -1,0 +1,4 @@
+/articles/ksa-vat-law-m-113-of-2017-article-\d+#bookmarkSection(\d+)
+ 
+/articles/ksa-vat-law-article-\d+#bookmarkSection(\d+)
+/decisions/ksa-vat-law-m-113-of-2017-bl-3839-article-$1-of-2016

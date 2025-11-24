@@ -1,0 +1,18 @@
+All UI components must follow the design patterns located in my folder named:
+gtl-mui design-references
+These references dictate component structure, spacing, typography, color usage, layout, and interaction patterns.
+When generating a UI component, infer the closest applicable pattern from the design-references folder and follow it faithfully.
+
+
+
+multiple folder dir:
+lms\learning-management-system so in this dir 
+
+for this app you can take the  components from the psd\progressive-student-dashboard dir where already some of the functionalities are already built.
+
+
+
+
+use the env files which i have already stored for different DB
+#file:v1.1-lms-pompt.txt  -- need to complete the implementation whatever specified in the file
+make a todo of all the tasks

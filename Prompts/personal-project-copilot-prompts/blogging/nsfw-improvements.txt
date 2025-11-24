@@ -1,0 +1,14 @@
+currently i have implemented a basic nsfw detector for my blogging platform (only for text content)that uses extracting and storing content in a varible and count it to detect no. of inappropriate words in blog content. 
+however, the filter is not robust always, so need to remove it and implement a better nsfw detection mechanism.
+
+i found some free open source nsfw detection for detection of blog content whether it is nsfw or not.
+they are:
+1. Glin-Profanity : https://www.glincker.com/tools/glin-profanity
+                    https://github.com/GLINCKER/glin-profanity
+
+2. ProfanityAPI : https://www.profanity.dev/#api
+    POST: https://vector.profanity.dev
+
+need to integrate these both services into my blogging platform to improve the nsfw detection accuracy.
+
+there are some components which are dependent on the older nsfw detection mechanism, so need to refactor those components as well to work with the new nsfw detection services.

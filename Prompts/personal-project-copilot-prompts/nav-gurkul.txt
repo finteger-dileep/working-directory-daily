@@ -1,0 +1,40 @@
+Instructor dashboard showing enrolled students for each courses and the students detailes and individual progress for that particular course respectively.
+
+Instructor CRUD for courses, modules, lessons. so that he can add himeself
+
+/instructor/courses - shoudl list all the course that the instructor has created with options to add, edit, delete courses.
+
+These references dictate component structure, spacing, typography, color usage, layout, and interaction patterns.
+When generating a UI component, infer the closest applicable pattern from the design-references folder and follow it faithfully.
+you can take the  components from the psd\progressive-student-dashboard dir where already some of the functionalities are already built.
+
+
+
+
+how to Tests and instructions to run them for this project
+
+
+
+
+API .md
+hope this file has only the necesaary info regarding this project and update with all the latest info, pls check it clearly and make changes wherever necessary.
+
+
+Testing.md
+i appreciate your detailed summary , but as iam submitting for the eavluation purpose just needs tesint instruction how to run under 50 lines max
+
+
+
+frontend and backend
+
+
+pls rewrite this compose file to build frontend and backend + secrete from the .env files (frontend and backend)Then your backend directly connects to Atlas,
+and do NOT need a local mongo container.
+
+
+
+generate the  architecture diagram, API docs  and clear developer notes. 
+
+docs - in this dir
+
+make sure that this is for evaluation purpose lees than 100 line

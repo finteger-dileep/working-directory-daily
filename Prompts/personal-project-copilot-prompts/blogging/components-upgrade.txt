@@ -1,0 +1,7 @@
+this navbar needs work interms of design i ahve the refences based on that change the design , but note that the exact functionalities should be there, there shouyld not be any break in the functionalities break 
+
+
+
+
+after the blogs getting approved from the uesr, it should be available to all of the public users, but for now it is only available for the post user why is that?
+

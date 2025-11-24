@@ -1,0 +1,25 @@
+
+Need to fix the below errors
+
+also the ui is not fixed for screens, for instance the login and registering page
+the ui is not adaptive nor fixed to the screen, pls fix that every where
+
+also, create a faker py script for inserting dummy data (pymongo faker python-dotenv) - by referring the schemas of mongo DB
+
+
+
+frontend: vite + react - javascript
+Backend: node.js + express
+Database: MongoDB + mongoose
+Authentication: JWT + bcrypt
+Containerization: Docker + Docker Compose
+Styling / UI: Material UI
+
+color schemes: 
+use minimal color - 3 to 4 max 
+dark #00343d
+dark #254857
+yellow #ffda03
+white-gray #fafafa
+
+i have all the requirements in the file of this repo requirement.txt - build the project according to it

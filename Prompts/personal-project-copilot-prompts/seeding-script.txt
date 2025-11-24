@@ -1,0 +1,15 @@
+create a seegin script for mongo db 
+
+to add 3 user of each different roles
+so it s common to use bcrypt for passwords
+
+
+the sample data as follows:
+demo-user@gmail.com
+Demouser@123456
+
+demo-admin@gmail.com
+Demoadmin@123456
+
+demo-super-admin@gmail.com
+Demosuperadmin@123456
