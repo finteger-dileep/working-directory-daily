@@ -1,3 +1,13 @@
 Modified "content", "textOnly"
 
 Replace the whole file
+
+Replace whole "articles": [..] array
+
+
+Added 5 new attributes :
+"summary": "",
+"metaTitle": "",
+"metaDescription": "",
+"metaKeywords": "",
+"relatedDocs": [],

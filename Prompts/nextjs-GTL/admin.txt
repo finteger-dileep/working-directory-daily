@@ -1,0 +1,29 @@
+   {/* Admin Routes - Protected */}
+<Route path='/admin' element={<AdminRoute><AdminDashboard /></AdminRoute>}>
+    <Route index element={<AdminAnalytics />} />
+    <Route path='pending-blogs' element={<AdminPendingBlogs />} />
+    <Route path='approved-blogs' element={<AdminApprovedBlogs />} />
+    <Route path='rejected-blogs' element={<AdminRejectedBlogs />} />
+    <Route path='users-management' element={<AdminRoute requireSuperAdmin={true}><AdminUsersManagement /></AdminRoute>} />
+</Route>
+
+the above routes are for reference follow the best industry practises for these admin routes
+
+no normal user can have access,
+
+i need to build admin dashboard page you can take the references from these vite components in this folder: 1b\admin-page
+
+make the design better following the website standard themes, color spacing etc
+
+
+need to build excat following functionalities:
+
+
+
+
+the admin dashboard route page ui ux is not coorectly functional
+
+see the overlapping of nav bar , footer with the side nav bar navigation need to work on correcting that and responsive
+side
+
+

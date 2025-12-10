@@ -1,0 +1,4 @@
+note that for community blogs are written by users and this community blogs comes from the mongo DB database, blogs
+
+
+
