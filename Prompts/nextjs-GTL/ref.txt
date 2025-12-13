@@ -1,0 +1,5 @@
+
+take ref from this app code here in this folder out\mine-next-separate-app\antigravity-blog\src
+
+implement the same functionality in this app as well
+

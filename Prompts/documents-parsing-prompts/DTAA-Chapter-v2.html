@@ -1,0 +1,83 @@
+Clean and reformat a DTAA HTML file using the following exact rules. Do not delete or modify any existing HTML tags or punctuation. Maintain semantic, valid, and clean HTML structure throughout.
+
+1. HTML Structure
+Ensure the base structure is exactly as follows:
+never modify the content or punctuation
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='UTF-8'>
+<meta name='viewport' content='width=device-width,initial-scale=1'>
+<link rel='stylesheet' href='https://gtlcdn-eufeh8ffbvbvacgf.z03.azurefd.net/guide/stylesheets/dev/dtaa.css'>
+<title> - DTAA</title>
+</head>
+<body>
+<div class='scope'>
+<header>
+</header>
+<main>
+<div class='index'>
+</div>
+<!-- All content goes here -->
+</main>
+</div>
+</body>
+</html>
+2. <header> Section
+- Inside the <header> tag:
+    - Format the <h1> treaty title using these rules:
+    • Always capitalize: Agreement, Government
+    • Country names in FULL UPPERCASE and wrapped with <u>
+    • Lowercase for articles/prepositions/conjunctions: between, the, of, and, for, with, respect, to, on
+    • All other significant words in Title Case
+    • Never remove or change any HTML tags or punctuation
+    - Include any preamble or introductory paragraph text *before* the article definitions inside this header.
+1. Table of Contents (<div class='index'>)
+- Include:
+<h3><p>Contents</p></h3>
+- Add links to each chapter and article like:
+<p><a href='#bookmarkSection1'>Article 1 - [Article Name]</a></p>
+<p><a href='#bookmarkSectionChapter1'>CHAPTER I - [TITLE]</a></p>
+1. Chapter Formatting
+- Use this exact structure:
+<div class='chapter' id='bookmarkSectionChapter1'>
+<h3>CHAPTER I - [CHAPTER TITLE IN UPPERCASE]</h3>
+</div>
+1. Article Formatting
+- Use:
+<article id='bookmarkSection1'>
+<h3>Article 1<br>[Article Name]</h3>
+<p>...</p>
+</article>
+1. List Formatting
+- Use three levels of indentation in ordered lists:
+    
+    if nothing is present then follow this if already the order is given then follow that 
+    • Level 1: numbers (1., 2., 3.)
+    • Level 2: letters (a., b., c.) → add type='a'
+    • Level 3: roman numerals (i., ii., iii.) → add type='i'
+    
+    if - (dash) is present  in the listing ,  then add class=”dashed ” in  ul tag
+    
+- Wrap each list item content inside:
+<li><p>...</p></li>
+1. Cross-References for Articles
+- For phrases like &quot;Articles 7, 14 and 15&quot;:
+for this type of  Articles 21, 23, 25, 28, 26 and 30. - any no. here, just link accordingly,
+link the text accordingly never modify the text, just do linking to particular sections
+    - Convert to:
+    <a href='#bookmarkSection7'>Articles 7</a>, <a href='#bookmarkSection14'>14</a> and <a href='#bookmarkSection15'>15</a>
+    - note: do not add Article word after , and
+    - do not add a tag for &quot;of this Article..&quot;
+    - For phrases like &quot;Article 8&quot; - any Article number in p tags,
+     Link like this <a href='#bookmarkSection8'>Article 8</a>
+
+    - Do not link Article word written like this " of this Article " or " on this Article" or text Articles with no adjustant number  referencing to any article numbering. 
+    
+1. Protocol Section
+- If present, add as a new article using the next bookmarkSection number.
+
+Important:
+- Do not remove any tags or punctuation.
+- Ensure all output is cleanly indented and semantically valid HTML.
+- Wrap everything inside <div class='scope'> within the <body>.

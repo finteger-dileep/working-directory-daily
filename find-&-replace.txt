@@ -2,3 +2,24 @@
  
 /articles/ksa-vat-law-article-\d+#bookmarkSection(\d+)
 /decisions/ksa-vat-law-m-113-of-2017-bl-3839-article-$1-of-2016
+
+
+
+
+
+
+
+Article 4 of Cabinet Decision No. 34 of 2025
+Article (\d+) of Cabinet Decision No. 34 of 2025
+
+<a href='/decisions/uae-cit-fdl-47-of-2022-cd-34-of-2025#bookmarkSection$1'>Article $1</a> of Cabinet Decision No. 34 of 2025
+
+/decisions/uae-cit-fdl-47-of-2022-cd-34-of-2025#bookmarkSection5
+
+
+Article (\d+) of the Corporate Tax Law
+<a href='/articles/uae-cit-fdl-47-of-2022-article-$1'>Article $1</a> of the Corporate Tax Law
+
+
+
+/articles/uae-cit-fdl-47-of-2022-article-51

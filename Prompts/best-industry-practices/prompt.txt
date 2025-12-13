@@ -1,4 +1,4 @@
- implement all these things followin the best industry practices
+ implement all these things following the best industry practices
 
 MOBILE (responsive and font size):
 the mobile view , is not that good in terms of responsvie, fix this and take care of font size for different screen
