@@ -1,4 +1,4 @@
-Modified "content", "textOnly"
+Modified "content", "textOnly", "relatedDocs" : []
 
 Replace the whole file
 
